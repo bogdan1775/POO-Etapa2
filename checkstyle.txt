@@ -1,0 +1,18 @@
+Starting audit...
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/app/user/Host.java:34: Line is longer than 100 characters (found 118). [LineLength]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/app/user/Artist.java:66: Line is longer than 100 characters (found 110). [LineLength]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/app/user/Artist.java:79: Line is longer than 100 characters (found 116). [LineLength]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/app/user/Artist.java:92: Line is longer than 100 characters (found 119). [LineLength]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/app/user/Artist.java:132: Line has trailing spaces. [RegexpSingleline]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/app/user/User.java:142:73: 'type' hides a field. [HiddenField]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/app/user/User.java:198: Line is longer than 100 characters (found 107). [LineLength]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/app/user/User.java:483:16: 'type' hides a field. [HiddenField]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/app/Admin.java:487:21: 'albums' hides a field. [HiddenField]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/app/Admin.java:788:21: 'albums' hides a field. [HiddenField]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/app/Page.java:65: Line is longer than 100 characters (found 110). [LineLength]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/app/Page.java:84: Line is longer than 100 characters (found 109). [LineLength]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/visit/Visitor.java:13:5: Redundant 'public' modifier. [RedundantModifier]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/visit/Visitor.java:20:5: Redundant 'public' modifier. [RedundantModifier]
+[ERROR] /home/student/Desktop/poo-tema/oop-project-2023/etapa2/./src/visit/Visitor.java:27:5: Redundant 'public' modifier. [RedundantModifier]
+Audit done.
+Checkstyle ends with 15 errors.
